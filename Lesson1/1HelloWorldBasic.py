@@ -1,0 +1,5 @@
+print ( "Hello World of Python ! " )
+print ( "Good Evening ")
+name = input ("What is your name : ")
+print ( "You entered " )
+print(name)
